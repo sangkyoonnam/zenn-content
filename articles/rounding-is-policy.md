@@ -3,7 +3,7 @@ title: '丸めはポリシーだ'
 emoji: '🔧'
 type: 'tech'
 topics: ['settlement', 'rounding', 'python', 'kotlin']
-published: false
+published: true
 ---
 
 > この記事は [Namsang Labs 技術ブログ](https://blog.namsang.co/ja/posts/rounding-is-policy/) からの転載です。
